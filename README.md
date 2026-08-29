@@ -16,12 +16,6 @@
 <br>
 
 
-## 🏃‍♀️ Activities
-<img alt="Trophy"src="https://github-profile-trophy.vercel.app/?username={katu-n}&rank=?,-?&no-frame=true" />
-<img alt="details" width="700px" src="https://raw.githubusercontent.com/{username}/{username}/main/profile-summary-card-output/nord_bright/0-profile-details.svg" />
-<img alt="repos-per-language" width="348px" src="https://raw.githubusercontent.com/{username}/{username}/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" />
-<img alt="most-commit-language" width="348px" src="https://raw.githubusercontent.com/{username}/{username}/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
-
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
