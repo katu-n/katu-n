@@ -21,6 +21,9 @@
 <a href="https://academy.claude.com/verify/9016f05af04a31c55cc934e41232281e" target="_blank">
   <img src="ここにバッジまたは証明書画像のURL" width="180" alt="Claude Academy Certification" />
 </a>
+
+## 🏆 Certifications
+- **Claude Academy Certified** [![Verify](https://img.shields.io/badge/Verify-Credential-blue?style=flat-square)](https://academy.claude.com/verify/9016f05af04a31c55cc934e41232281e)
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
