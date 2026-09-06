@@ -7,7 +7,7 @@
 
 - 🧑‍💻 I'm a student.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [X - @katu_kobe](https://x.com/katu_kobe)
+- 📫 How to reach me: [![X (formerly Twitter)](https://img.shields.io/badge/X-@katu__kobe-black?style=flat-square&logo=x&logoColor=white)](https://x.com/katu_kobe)
 <br>
 
 
@@ -17,7 +17,6 @@
 
 
 ## 🏆 Certifications
-- **Claude Academy Certified** 
 - **Prompt Engineering Interactive Tutorial** [![Verify](https://img.shields.io/badge/Verify-Credential-blue?style=flat-square)](https://academy.claude.com/verify/9016f05af04a31c55cc934e41232281e)
 - **Claude with Anthropic API** [![Verify](https://img.shields.io/badge/Verify-Credential-blue?style=flat-square)](https://academy.claude.com/verify/585e6e9b3f8486cd03e6c83abb239af2)
 
