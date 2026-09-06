@@ -12,8 +12,10 @@
   <a href="https://x.com/katu_kobe"><img src="https://img.shields.io/badge/@katu__kobe-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=katu-n&show_icons=true&theme=dark" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katu-n&layout=compact&theme=dark" height="150" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=katu-n&show_icons=true&theme=dark" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katu-n&layout=compact&theme=dark" height="150" alt="languages" />
+</p>
 
 
 ## 🌱 Skills
