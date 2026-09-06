@@ -18,12 +18,9 @@
 
 ## 🏆 Certifications
 - **Claude Academy Certified** 
-<br>
-[![Verify](https://img.shields.io/badge/Verify-Credential-blue?style=flat-square)](https://academy.claude.com/verify/9016f05af04a31c55cc934e41232281e)
-</br>
-<br>
-[![Verify](https://img.shields.io/badge/Verify-Credential-blue?style=flat-square)](https://academy.claude.com/verify/585e6e9b3f8486cd03e6c83abb239af2)
-</br>
+- **Prompt Engineering Interactive Tutorial** [![Verify](https://img.shields.io/badge/Verify-Credential-blue?style=flat-square)](https://academy.claude.com/verify/9016f05af04a31c55cc934e41232281e)
+- **Claude with Anthropic API** [![Verify](https://img.shields.io/badge/Verify-Credential-blue?style=flat-square)](https://academy.claude.com/verify/585e6e9b3f8486cd03e6c83abb239af2)
+
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
