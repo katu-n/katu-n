@@ -7,7 +7,7 @@
 
 - 🧑‍💻 I'm a student.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [![X](https://img.shields.io/badge/X-@katu__kobe-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=161616)](https://x.com/katu_kobe)
+- 📫 How to reach me: <a href="https://x.com/katu_kobe"><img align="center" src="https://img.shields.io/badge/@katu__kobe-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <br>
 
 
