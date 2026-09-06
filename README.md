@@ -16,7 +16,8 @@
 <br>
 
 
-
+## 🏆 Certifications
+[![Claude Academy](https://img.shields.io/badge/Claude%20Academy-Certified-D97706?style=flat-square&logo=anthropic&logoColor=white)](https://academy.claude.com/verify/9016f05af04a31c55cc934e41232281e)
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
